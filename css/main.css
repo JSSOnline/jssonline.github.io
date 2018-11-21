@@ -64,7 +64,6 @@ hr{
 }
 .software-row{
 	color: #fff;
-
 }
 .hobby{
 	margin: 0 auto;
@@ -88,9 +87,6 @@ hr{
 .copy{
 	color: #555;
 	background-color: #222;
-}
-.active{
-	color: #fff;
 }
 @media (max-width: 768px){
 	hr{
